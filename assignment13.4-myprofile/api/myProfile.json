@@ -1,0 +1,61 @@
+{
+"title":"BASIC INFORMATION",
+"detail":"Looking for a challenging role in a reputable organization to utilize my technical, database, and management skills for the growth of the organization as well as to enhance my knowledge about new and emerging trends in the IT sector."
+,
+"title1":"EDUCATION"
+,
+"university":
+[
+{"name":"Hyderabad University",
+ "place":"Hyderabad, Telangana",
+ "year":"2016",
+ "degree":"Bachelor's Degree in Computer Science"},
+ {"name":"Web and App development program",
+ "year":"Front End Web Development 2017"},
+ {"name":"Google Certified Professional",
+ "place":"NY, U.S.A.",
+ "year":"2018",
+ "degree":"JavaScript 1.8", 
+ "additional":"www.w3schools.com",
+ "other":"Web Design Concepts, PHP 5.6 & Problem Solving, Google Certified Professional 2018"}
+],
+
+ "title2":"PROFESSIONAL EXPERIENCE",
+ "employer":
+
+[
+{"position":"Part-Time Employee",
+ "name":"Infosys,",
+ "place":"NY, U.S.A",
+ "year":"2017-Present",
+ "detail1":"Setting up workstations with computers and necessary peripheral devices. Checking computer hardware (HDD, mouses, keyboards etc.) to ensure functionality."},
+{"position":"Web Designer Volunteer",
+ "name":"W3 Education",
+ "place":"Online",
+ "year":"2017-Present",
+ "detail2":"When compiling an IT Support job description, here is a selection of duties to include: Installing and configuring computer hardware, software, systems, networks, printers and scanners."}
+],
+"last" : "BETHAPUDI",
+ "first": "RAMESH BABU",
+ "position": "Software Developer",
+ "detail3" : "Systems analysts investigate and analyse business problems and then design information systems that provide a feasible solution, typically in response to requests from their business or a customer.",
+ "title3" : "PERSONALITY HIGHLIGHTS",
+ "list":
+[
+{"first1" : "Planning",
+ "second" : "Hard working",
+ "third" : "Analytical",
+ "fourth" : "Enthusiasm",
+ "fifth":"Explorer",
+ "sixth":"Ready for challenges"}
+ ],
+ "contact":
+ [{"description" : "CONTACT DETAILS",
+ "street" : "Indira Nagar, Ramanthapur",
+ "city":"Hyderabad, Telangana",
+ "country":"India",
+ "email":"ramesh****@gmail.com",
+ "website":"www.rameshbethapudi.com",
+ "telephone":"+91-955-***-*642"}
+ ]
+}
